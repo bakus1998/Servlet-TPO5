@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="javax.servlet-api-3.0.1">
+    <archive path="G:/Studia/Projekt tpo 5 test/TPO5/javax.servlet-api-3.0.1.jar" />
+  </library>
+  <library name="mysql-connector-java-8.0.20">
+    <archive path="G:/Studia/Projekt tpo 5 test/TPO5/mysql-connector-java-8.0.20.jar" />
+  </library>
+</eclipse-userlibraries>
+
